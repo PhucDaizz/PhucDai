@@ -16,8 +16,12 @@
 
 ## 🚀 About Me
 
->I am a passionate Vietnamese software engineer with a strong interest in leveraging technology to improve everyday life. My focus is on building robust, user-friendly solutions that solve real-world problems.
->Driven by a desire to make a positive impact, I am always exploring new ways to use my creativity and technical skills to create meaningful change. I firmly believe in the power of technology to solve complex challenges and improve the quality of life for individuals and communities.
+I am a passionate Vietnamese software engineer with a strong interest in leveraging technology to improve everyday life.
+My focus is on building robust, user-friendly solutions that solve real-world problems.
+
+Driven by a desire to make a positive impact, I am always exploring new ways to use my creativity and technical skills to create meaningful change.
+I firmly believe in the power of technology to solve complex challenges and improve the quality of life for individuals and communities.
+
 ---
 
 ## 🛠️ Tech Stack & Tools
